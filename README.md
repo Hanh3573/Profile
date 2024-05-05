@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Hánh</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dyMWkzam1lazRvcWJ6MXJscXdnbWp5dGd0Mnp4YjZiNGZ5azN5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanh3573&label=Profile%20views&color=0e75b6&style=flat" alt="hanh3573" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanh3573&label=Profile%20views&color=0e75b6&style=flat" alt="hanh3573" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on **A**
 
