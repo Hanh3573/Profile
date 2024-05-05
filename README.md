@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--d6BrpdRG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif)]
+[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAwYmp3cXJxMnpubWFibjdiNHl4dm14MXVnMm1yYm1lbzZ4NnMyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SV09Wp6hvMW7m/giphy.gif)]
 
 <h1 align="center">Hi 👋, I'm Hánh</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
