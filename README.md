@@ -1,10 +1,31 @@
-[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fsintomaticonegativo%2Fto-gif-or-not-to-gif-3hbh&psig=AOvVaw0Ok18S41VH27cfvGo5gNfU&ust=1714988586796000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLCa3sGc9oUDFQAAAAAdAAAAABAD)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fsintomaticonegativo%2Fto-gif-or-not-to-gif-3hbh&psig=AOvVaw0Ok18S41VH27cfvGo5gNfU&ust=1714988586796000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLCa3sGc9oUDFQAAAAAdAAAAABAD)
+
 <h1 align="center">Hi 👋, I'm Hánh</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanh3573&label=Profile%20views&color=0e75b6&style=flat" alt="hanh3573" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **A**
+
+- 🌱 I’m currently learning **A**
+
+- 👯 I’m looking to collaborate on **A**
+
+- 🤝 I’m looking for help with **A**
+
+- 👨‍💻 All of my projects are available at [A](A)
+
+- 📝 I regularly write articles on [A](A)
+
+- 💬 Ask me about **A**
+
+- 📫 How to reach me **A**
+
+- 📄 Know about my experiences [A](A)
+
+- ⚡ Fun fact **A**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
