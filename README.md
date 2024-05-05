@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk3djl4OGczcmEybzducHJ3aXl6bXNuam5hcnVocXg3eGkwOWlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hM6w8fVK2tcQ/giphy.gif)]
+[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnU0OGdsdXRvczVrcDM0aDhrb3k2eXI3ZThzNHNvODF5cnlmdzE2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyxdzuAaxZnPH7TyRd/giphy-downsized-large.gif)]()
 
 <h1 align="center">Hi 👋, I'm Hánh</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
