@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hánh</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dyMWkzam1lazRvcWJ6MXJscXdnbWp5dGd0Mnp4YjZiNGZ5azN5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc3OHl6dW44dHgyNWNlOTNmemdzazNocTJ5bjkxYmZtd3RmNmtiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LQHvkbIzTSLe/giphy.gif">
 
 
 - 🔭 I’m currently working on **A**
