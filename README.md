@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fsintomaticonegativo%2Fto-gif-or-not-to-gif-3hbh&psig=AOvVaw0Ok18S41VH27cfvGo5gNfU&ust=1714988586796000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLCa3sGc9oUDFQAAAAAdAAAAABAD)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--d6BrpdRG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif)]
 
 <h1 align="center">Hi 👋, I'm Hánh</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
